@@ -2,8 +2,8 @@ Changes
 =========
 Adjusted for TangereJs distribution:
 
-* changed 
-- removed
+* changed core-icons repo to: TangereJs/core-icons
+
 
 core-elements
 =========
