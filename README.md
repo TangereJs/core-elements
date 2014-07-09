@@ -1,3 +1,10 @@
+Changes
+=========
+Adjusted for TangereJs distribution:
+
+* changed 
+- removed
+
 core-elements
 =========
 
