@@ -1,8 +1,10 @@
 Changes
 =========
-Adjusted for TangereJs distribution:
+Adjusted for TangereJs distribution by removing enhanced/changed/fixed core components:
 
-* changed core-icons repo to: TangereJs/core-icons
+* core-icons
+* core-media-query
+
 
 
 core-elements
